@@ -24,7 +24,7 @@ Automated bot for claiming Interlink Labs airdrop tokens, designed for the Inter
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Abdurrahmanxii/InterLInk-Bot.git
+git clone https://github.com/Abdurrahmanxii/InterLink-Bot
 cd InterLink-Bot
 ```
 
