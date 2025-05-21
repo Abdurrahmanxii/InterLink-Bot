@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- source :Airdrop Insiders Community
+- source : Airdrop Insiders Community
 - edited : Alarm Airdrops
 
 ## 🙏 Support
