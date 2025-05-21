@@ -1,5 +1,5 @@
 {
-    "name": "interlink-auto-bot",
+    "name": "InterLink-Bot",
     "version": "1.0.0",
     "description": "Automated bot for claiming Interlink Labs airdrop tokens",
     "main": "index.js",
@@ -9,7 +9,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/vikitoshi/Interlink-Auto-Bot.git"
+      "url": "git+https://github.com/Abdurrahmanxii/InterLink-Bot"
     },
     "keywords": [
       "interlink",
@@ -18,12 +18,12 @@
       "bot",
       "automation"
     ],
-    "author": "Airdrop Insiders",
+    "author": "Alarm Airdrops",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/vikitoshi/Interlink-Auto-Bot/issues"
+      "url": "https://github.com/Abdurrahmanxii/InterLink-Bot/issues"
     },
-    "homepage": "https://github.com/vikitoshi/Interlink-Auto-Bot#readme",
+    "homepage": "https://github.com/Abdurrahmanxii/InterLink-Bot#readme",
     "dependencies": {
       "axios": "^1.6.2",
       "https-proxy-agent": "^7.0.2",
