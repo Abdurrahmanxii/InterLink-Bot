@@ -35,7 +35,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`Interlink Auto Bot - Airdrop Insiders`);
+    console.log(`InterLink Bot - Alarm Airdrops`);
     console.log(`---------------------------------------------${colors.reset}`);
     console.log();
   }
